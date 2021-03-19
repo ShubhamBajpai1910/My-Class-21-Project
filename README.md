@@ -1,2 +1,2 @@
-# My-Class-21-Project
-My class project about damage on walls. 
+# p5.play-boilerplate
+Boiler plate for p5.play
